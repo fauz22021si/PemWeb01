@@ -1,0 +1,48 @@
+body{
+    background-color:wheat;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+}
+
+blockquote{
+    background-color:dodgerblue;
+    color: black;
+    border: 0;
+}
+
+#header{
+    text-align: center;
+    background-color:coral;
+    padding-bottom: 10px;
+}
+
+.gambar{
+    text-align: center;
+}
+
+.nav{
+    text-align: center;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.nav ul li{
+    margin: 0em 1em;
+}
+
+.jawa{
+    color: blue;
+    font-size: 100px;
+}
+
+.koleksi img{
+    width: 20%;
+}
